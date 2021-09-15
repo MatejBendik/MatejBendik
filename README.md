@@ -24,7 +24,7 @@
 "https://user-images.githubusercontent.com/75170699/133461622-c4263950-fb87-4fca-8f85-bda0dbb1184e.png" />
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/75170699/133461594-55ffa391-de24-4127-be8a-f7c1fb5b1325.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26" src="https://user-images.githubusercontent.com/75170699/133465539-d1020e9e-4bf0-4cd2-85ba-f34060be8812.png" />
+<img align="left" alt="PHP" width="26" src="https://user-images.githubusercontent.com/75170699/133465721-71e501c3-181e-4641-be9f-f62b29bdc594.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75170699/133459954-9e7efc2f-a1cd-4575-b070-f7275687a25c.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75170699/133460224-4156979d-6927-403b-95a0-3474ac2f659c.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/75170699/133460705-0d21c78b-8b18-4eba-861c-9e8c73d294af.png" />
