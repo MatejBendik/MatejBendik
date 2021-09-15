@@ -40,7 +40,7 @@
 
 ---
 
-[![Matt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattBendd)](https://github.com/MattBendd/github-readme-stats)
+[![Matt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matej)](https://github.com/MattBendd/github-readme-stats)
 
 <br />
 
