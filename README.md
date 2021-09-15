@@ -38,6 +38,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattBendd&layout=compact)](https://github.com/MattBendd/github-readme-stats)
 
+---
+
+[![Matt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattBendd)](https://github.com/MattBendd/github-readme-stats)
+
 <br />
 
 [twitter]: https://twitter.com/MattBendd
