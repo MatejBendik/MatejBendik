@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MattBendd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MattBendd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MattBendd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MattBendd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="MattBendd | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
+[<img align="left" alt="MattBendd | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
+[<img align="left" alt="MattBendd | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
+[<img align="left" alt="MattBendd | YouTube" width="22px" src="https://user-images.githubusercontent.com/75170699/133463260-85ecd322-c392-4eef-997a-27e3f7e6d997.png" />][youtube]
 
 <br />
 
