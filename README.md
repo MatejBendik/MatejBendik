@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MattBendd | Twitter" width="22px" target="_blank" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
+[<img align="left" alt="MattBendd | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
 [<img align="left" alt="MattBendd | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
 [<img align="left" alt="MattBendd | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
 [<img align="left" alt="Matej Bendik | Facebook" width="22px" src="https://user-images.githubusercontent.com/75170699/133463747-de8640f3-c61e-44c6-ae4e-89e1a590d33c.png" />][facebook]
@@ -46,8 +46,8 @@
 
 <br />
 
-[twitter]: https://twitter.com/MattBendd
-[youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ
-[instagram]: https://instagram.com/matej11bendik
-[linkedin]: https://www.linkedin.com/in/matej-bendik-9a081321a/
-[facebook]: https://www.facebook.com/matej.bendik/
+[twitter]: https://twitter.com/MattBendd?target=_blank 
+[youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ?target=_blank 
+[instagram]: https://instagram.com/matej11bendik?target=_blank 
+[linkedin]: https://www.linkedin.com/in/matej-bendik-9a081321a?target=_blank 
+[facebook]: https://www.facebook.com/matej.bendik?target=_blank 
