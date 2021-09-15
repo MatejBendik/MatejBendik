@@ -36,6 +36,12 @@
 
 <br />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattBendd&layout=compact)](https://github.com/MattBendd/github-readme-stats)
+
+<br />
+
 [twitter]: https://twitter.com/MattBendd
 [youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ
 [instagram]: https://instagram.com/matej11bendik
