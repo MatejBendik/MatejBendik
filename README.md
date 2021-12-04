@@ -43,10 +43,6 @@
 
 ---
 
-[![Matt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matej)](https://github.com/MattBendd/github-readme-stats)
-
----
-
 ![snake gif](https://github.com/MattBendd/MattBendd/blob/output/github-contribution-grid-snake.gif)
 
 <br />
