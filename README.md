@@ -42,7 +42,7 @@
 
 ---
 
-![snake gif](https://github.com/MatejBendik/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MatejBendik/MatejBendik/blob/output/github-contribution-grid-snake.gif)
 
 <br />
 
