@@ -1,19 +1,18 @@
-## Hey, I'm Matt <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey, I'm Matej <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MattBendd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMattBendd&screen_name=MattBendd)
 
-## "The Linux Guy", Programmer and Freelance Web Developer!
+## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🚀 I’m currently learning Back-end development 🤣
 - ⚡ Fun fact: I love Vim (Don't hate me)
 
 ### Connect with me:
 
-[<img align="left" alt="MattBendd | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
-[<img align="left" alt="MattBendd | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
-[<img align="left" alt="MattBendd | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
+[<img align="left" alt="Matej Bendik | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
+[<img align="left" alt="Matej Bendik | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
+[<img align="left" alt="Matej Bendik | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
 [<img align="left" alt="Matej Bendik | Facebook" width="22px" src="https://user-images.githubusercontent.com/75170699/133463747-de8640f3-c61e-44c6-ae4e-89e1a590d33c.png" />][facebook]
 
 <br />
@@ -35,7 +34,7 @@
 <br />
 
 ---
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattBendd&show_icons=true&theme=radical)
+![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejBendik&show_icons=true&theme=radical)
 
 ---
 
@@ -43,7 +42,7 @@
 
 ---
 
-![snake gif](https://github.com/MattBendd/MattBendd/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MattBendd/MatejBendik/blob/output/github-contribution-grid-snake.gif)
 
 <br />
 
