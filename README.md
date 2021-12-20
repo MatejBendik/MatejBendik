@@ -1,7 +1,7 @@
 ## Hey, I'm Matej <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MattBendd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMattBendd&screen_name=MattBendd)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BendikMatej?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=BendikMatej)
 
 ## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
@@ -38,7 +38,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattBendd&layout=compact)](https://github.com/MattBendd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact)](https://github.com/MatejBendik/github-readme-stats)
 
 ---
 
@@ -46,7 +46,7 @@
 
 <br />
 
-[twitter]: https://twitter.com/MattBendd?target=_blank 
+[twitter]: https://twitter.com/BendikMatej?target=_blank 
 [youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ?target=_blank 
 [instagram]: https://instagram.com/matej11bendik?target=_blank 
 [linkedin]: https://www.linkedin.com/in/matej-bendik-9a081321a?target=_blank 
