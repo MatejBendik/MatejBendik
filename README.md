@@ -42,10 +42,6 @@
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@matej)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ![snake gif](https://github.com/MatejBendik/MatejBendik/blob/output/github-contribution-grid-snake.gif)
 
 <br />
