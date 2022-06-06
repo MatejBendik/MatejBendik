@@ -4,7 +4,7 @@
 
 ## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
-- 🚀 I’m currently learning Back-end development
+- 🚀 I’m currently on my way to become MERN Full-Stack Developer
 - ⚡ Fun fact: I love Vim (Don't hate me)
 
 ### Connect with me:
