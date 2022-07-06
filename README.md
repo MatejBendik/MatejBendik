@@ -18,17 +18,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/75170699/133462085-245c5372-cc54-4b2e-8c8e-f946d7dacaad.png" />
-<img align="left" alt="HTML5" width="26px" src=
-"https://user-images.githubusercontent.com/75170699/133461622-c4263950-fb87-4fca-8f85-bda0dbb1184e.png" />
-<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/75170699/133461594-55ffa391-de24-4127-be8a-f7c1fb5b1325.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26" src="https://user-images.githubusercontent.com/75170699/133466471-64b15984-f2ea-4c32-8a76-849b0a274151.png" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75170699/133459954-9e7efc2f-a1cd-4575-b070-f7275687a25c.png" />
-<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75170699/133460224-4156979d-6927-403b-95a0-3474ac2f659c.png" />
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/75170699/133460705-0d21c78b-8b18-4eba-861c-9e8c73d294af.png" />
-<img align="left" alt="Vim" width="26px" src="https://user-images.githubusercontent.com/75170699/133461211-8616c5cd-e57e-4add-b9b5-e4e7a33d6f8d.png" />
-<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/75170699/133461089-17fd006c-33a1-403e-b12f-7cc90d8dd3aa.png" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 <br />
 
