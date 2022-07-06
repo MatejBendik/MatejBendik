@@ -9,10 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Matej Bendik | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
-[<img align="left" alt="Matej Bendik | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
-[<img align="left" alt="Matej Bendik | Instagram" width="22px" src="https://user-images.githubusercontent.com/75170699/133462726-4df3b78e-3212-4eaf-ae51-e1f7c968ada3.png" />][instagram]
-[<img align="left" alt="Matej Bendik | Facebook" width="22px" src="https://user-images.githubusercontent.com/75170699/133463747-de8640f3-c61e-44c6-ae4e-89e1a590d33c.png" />][facebook]
+<p align="left"> <a href="https://www.facebook.com/matej.bendik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/matej11bendik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matej-bendík-9a081321a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <br />
 
