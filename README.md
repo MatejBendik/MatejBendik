@@ -56,10 +56,6 @@
 
 ---
 
-![snake gif](https://github.com/MatejBendik/MatejBendik/blob/output/github-contribution-grid-snake.gif)
-
-<br />
-
 [twitter]: https://twitter.com/BendikMatej?target=_blank 
 [youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ?target=_blank 
 [instagram]: https://instagram.com/matej11bendik?target=_blank 
