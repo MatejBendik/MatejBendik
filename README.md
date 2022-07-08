@@ -53,11 +53,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact)](https://github.com/MatejBendik/github-readme-stats)
-
----
-
-[twitter]: https://twitter.com/BendikMatej?target=_blank 
-[youtube]: https://www.youtube.com/channel/UCBw4cVegTGyIwyRoXb_gJcQ?target=_blank 
-[instagram]: https://instagram.com/matej11bendik?target=_blank 
-[linkedin]: https://www.linkedin.com/in/matej-bendik-9a081321a?target=_blank 
-[facebook]: https://www.facebook.com/matej.bendik?target=_blank 
