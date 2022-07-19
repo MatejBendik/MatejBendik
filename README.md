@@ -6,6 +6,7 @@
 
 - 🚀 Full-Stack Web Developer
 - ⚡ Average NeoVim Enjoyer
+- 🏠 Terminal is my second home
 
 ### Connect with me:
 
