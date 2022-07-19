@@ -4,8 +4,8 @@
 
 ## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
-- 🚀 I’m currently on my way to become MERN Full-Stack Developer
-- ⚡ Fun fact: I love Vim (Don't hate me)
+- 🚀 Full-Stack Web Developer
+- ⚡ Average NeoVim Enjoyer
 
 ### Connect with me:
 
