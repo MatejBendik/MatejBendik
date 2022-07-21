@@ -5,7 +5,7 @@
 ## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
 - 🚀 Full-Stack Web Developer
-- ⚡ Average NeoVim Enjoyer
+- ⚡ Average Neovim Enjoyer
 - 🏠 Terminal is my second home
 
 ### Connect with me:
