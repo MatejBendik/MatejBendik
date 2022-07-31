@@ -49,4 +49,4 @@
 ![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejBendik&show_icons=true&theme=radical&count_private=true)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6&count_private=true)](https://github.com/MatejBendik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6)](https://github.com/MatejBendik/github-readme-stats)
