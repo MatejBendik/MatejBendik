@@ -4,7 +4,7 @@
 
 ## 18 | "The Linux Guy" 🐧 | Web Developer 🌐 
 
-- 🚀 Full-Stack Web Developer
+- 🚀 Full-Stack Web Developer (MERN)
 - ⚡ Average Neovim Enjoyer
 - 🏠 Terminal is my second home
 
