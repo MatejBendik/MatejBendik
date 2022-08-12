@@ -6,7 +6,7 @@
 
 - 🚀 Full-Stack Web Developer (MERN)
 - ⚡ Average Neovim Enjoyer
-- 🏠 Terminal is my second home
+- 🏠 Terminal is my second home (Iterm)
 
 ### Connect with me:
 
