@@ -11,13 +11,17 @@
 
 ### Connect with me:
 
-<p align="left"> <a href="https://www.facebook.com/matej.bendik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-&nbsp;  
-<a href="http://www.instagram.com/matej11bendik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-&nbsp;
+<p align="left"> 
+<a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+&nbsp; 
 <a href="https://www.linkedin.com/in/matej-bendík-9a081321a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 &nbsp;
-<a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/matej11bendik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+&nbsp;
+<a href="https://www.facebook.com/matej.bendik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+&nbsp;  
+
+</p>
 
 ### Languages and Tools:
 
