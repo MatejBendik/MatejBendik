@@ -4,7 +4,7 @@
 
 ## 19 | "The Linux Guy" 🐧 | Full-Stack Web Developer 🌐 
 
-- 🚀 MERN
+- 🚀 MERN Stack
 - ⚡ Average Neovim Enjoyer
 - 🏠 Terminal is my second home (Iterm)
 - 🗓️ I code daily
