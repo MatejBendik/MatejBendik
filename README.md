@@ -7,8 +7,7 @@
 - 🚀 I use MERN Stack
 - ⚡ Average Neovim Enjoyer
 - 🏠 Terminal is my second home (Iterm)
-- 🗓️ I code daily
-- 📖 I read daily
+- 🗓️ I code & read daily
 
 ### Connect with me:
 
