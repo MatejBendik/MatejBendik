@@ -9,6 +9,7 @@
 - 🍎 Apple Lover
 - 🏠 Terminal is my second home (Iterm)
 - 🗓️ I code & read daily
+- 🐦 Twitter content creator
 
 ### Connect with me:
 
