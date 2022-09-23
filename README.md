@@ -52,7 +52,9 @@
 <br />
 
 ---
-![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejBendik&show_icons=true&theme=radical&count_private=true)
+![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejBendik&show_icons=true&theme=react&count_private=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatejBendik&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6)](https://github.com/MatejBendik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6&theme=react&hide_border=true)](https://github.com/MatejBendik/github-readme-stats)
