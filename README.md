@@ -8,7 +8,7 @@
 - ⚡ Average Neovim Enjoyer
 - 🍎 Apple Lover
 - 🏠 Terminal is my second home (Iterm)
-- 🗓️ I code & read daily
+- 🗓️ I read daily
 - 🐦 Twitter content creator
 
 ### Connect with me:
