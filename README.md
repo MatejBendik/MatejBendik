@@ -9,7 +9,6 @@
 - 🍎 Using Apple 
 - 🏠 Terminal is my second home (Iterm)
 - 🗓️ I read daily
-- 🐦 Twitter content creator
 
 ### Connect with me:
 
