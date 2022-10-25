@@ -9,6 +9,7 @@
 - 🍎 Using Apple 
 - 🏠 Terminal is my second home (Iterm)
 - 🗓️ I read daily
+- 🎓 Studying at Technical University
 
 ### Connect with me:
 
