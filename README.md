@@ -7,7 +7,7 @@
 - 🚀 I use MERN Stack
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
-- 🏠 Terminal is my second home (Iterm)
+- 🏠 CLI >>> GUI
 - 🗓️ I read daily
 - 🎓 Studying at Technical University
 
