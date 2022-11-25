@@ -9,7 +9,7 @@
 - 🍎 Using Apple 
 - 🏠 CLI >>> GUI
 - 🗓️ I read daily
-- 🎓 Studying at Technical University
+- 🎓 Studying at Technical University of Košice
 
 ### Connect with me:
 
