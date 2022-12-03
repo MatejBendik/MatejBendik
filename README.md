@@ -55,4 +55,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatejBendik&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=7&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6&theme=react&hide_border=true&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)
