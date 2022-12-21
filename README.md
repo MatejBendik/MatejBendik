@@ -8,7 +8,6 @@
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
 - 🏠 CLI >>> GUI
-- 🗓️ I read daily
 - 🎓 Studying at Technical University
 
 ### Connect with me:
