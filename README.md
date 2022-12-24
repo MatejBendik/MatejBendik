@@ -9,7 +9,7 @@
 - 🍎 Using Apple 
 - 🏠 CLI >>> GUI
 - 📚 I learn daily
-- 🎓 Studying at Technical University
+- 🎓 Studying at Technical University 
 
 ### Connect with me:
 
