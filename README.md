@@ -4,7 +4,7 @@
 
 ## 19 • "The Linux Guy" 🐧 • Full-Stack Web Developer 🌐 
 
-- 🚀 I use MERN Stack
+- 🚀 MERN Stack User
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
 - 🏠 CLI >>> GUI
