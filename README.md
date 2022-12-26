@@ -10,7 +10,7 @@
 - 🏠 CLI >>> GUI
 - 📚 I learn daily
 - 🎓 Studying at Technical University 
-
+ 
 ### Connect with me:
 
 <p align="left"> 
