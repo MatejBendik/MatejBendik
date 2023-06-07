@@ -7,7 +7,6 @@
 - 🚀 MERN Stack User
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
-- 🏠 CLI >>> GUI
 - 📚 I learn daily
 - 🎓 Studying at Technical University 
 
