@@ -8,7 +8,7 @@
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
 - 📚 I learn daily
-- 🎓 Studying at Technical University of Košice
+- 🎓 Studying at Technical University
 
 ### Connect with me:
 
