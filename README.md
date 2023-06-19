@@ -12,7 +12,7 @@
 
 ### Projects I've built:
 
-<a href="https://sortlen.vercel.app/" target="_blank" alt="Sortlen">Sortlen</a>
+<a href="https://sortlen.vercel.app/" target="_blank">Sortlen</a>
 
 ### Connect with me:
 
