@@ -15,6 +15,8 @@
 <a href="https://sortlen.vercel.app/" target="_blank">Sortlen</a>
 <br>
 <a href="https://www.matejbendik.com" target="_blank">Portfolio</a>
+<br>
+<a href="https://links.matejbendik.com" target="_blank">My Links</a>
 
 ### Connect with me:
 
