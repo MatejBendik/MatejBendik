@@ -13,11 +13,11 @@
 ### Projects I've built:
 
 <a href="https://sortlen.matejbendik.com" target="_blank">Sortlen</a>
-<br>
+•
 <a href="https://www.matejbendik.com" target="_blank">Portfolio</a>
-<br>
+•
 <a href="https://links.matejbendik.com" target="_blank">My Links</a>
-<br>
+•
 <a href="https://realtor-clone.matejbendik.com" target="_blank">Realtor clone</a>
 
 ### Connect with me:
