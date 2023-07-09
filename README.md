@@ -7,7 +7,7 @@
 - 🚀 MERN Stack User
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
-- 📚 I learn daily
+- 📚 I'm currently learning NextJS
 - 🎓 Studying at Technical University
 
 ### Projects I've built:
