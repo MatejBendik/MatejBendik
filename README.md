@@ -12,13 +12,15 @@
 
 ### Projects I've built:
 
-<a href="https://sortlen.matejbendik.com" target="_blank">Sortlen</a>
+<a href="https://realtor-clone.matejbendik.com" target="_blank">Realtor clone</a>
+•
+<a href="https://promptzone.matejbendik.com" target="_blank">Promptzone</a>
 •
 <a href="https://www.matejbendik.com" target="_blank">Portfolio</a>
 •
-<a href="https://links.matejbendik.com" target="_blank">My Links</a>
+<a href="https://sortlen.matejbendik.com" target="_blank">Sortlen</a>
 •
-<a href="https://realtor-clone.matejbendik.com" target="_blank">Realtor clone</a>
+<a href="https://links.matejbendik.com" target="_blank">My Links</a>
 
 ### Connect with me:
 
