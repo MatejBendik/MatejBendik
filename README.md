@@ -4,7 +4,7 @@
 
 ## 19 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
-- 🚀 MERN Stack User
+- 💻 Working as a Junior Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
 - 📚 I'm currently learning NextJS and React Query
