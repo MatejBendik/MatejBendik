@@ -7,7 +7,7 @@
 - 💻 Working as a Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
 - 🍎 Using Apple 
-- 📚 I'm currently learning NextJS and React Query
+- 📚 I'm currently learning NextJS
 - 🎓 Studying at Technical University
 
 ### Projects I've built:
