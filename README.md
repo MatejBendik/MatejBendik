@@ -23,13 +23,18 @@
 
 ### Connect with me:
 
-<p align="left"> 
-<a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-&nbsp; 
-<a href="https://www.linkedin.com/in/matejbendik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-&nbsp;
-<a href="http://www.instagram.com/matejbendik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-&nbsp;
+<p align="left">
+  <a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px" />
+  </a>
+ &nbsp;
+ <a href="https://www.linkedin.com/in/matejbendik/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
+  </a>
+ &nbsp;
+ <a href="http://www.instagram.com/matejbendik" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px"/>
+  </a>
 </p>
 
 ### Languages and Tools:
