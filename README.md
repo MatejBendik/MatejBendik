@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BendikMatej?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=BendikMatej)
 
-## 19 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
+## 20 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
 - 💻 Working as a Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
