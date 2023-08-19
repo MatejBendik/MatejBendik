@@ -7,7 +7,7 @@
 - 💻 Working as a Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
 - 📚 I'm currently learning NextJS 13
-- 🎓 Studying at Technical University of Kosice
+- 🎓 Studying at Technical University of Košice
 
 ### Projects I've built:
 
