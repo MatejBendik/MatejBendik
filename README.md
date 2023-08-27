@@ -6,6 +6,7 @@
  
 - 💻 Working as a Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
+- 📄 Notion Templates Creator
 - 📚 I'm currently learning NextJS 13
 - 🎓 Studying at Technical University of Kosice
 
