@@ -23,8 +23,8 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.twitter.com/BendikMatej" target="_blank" rel="noreferrer">
-    <img src="https://github.com/MatejBendik/MatejBendik/assets/75170699/4e19d096-04eb-401d-ac24-c141c2357bff" width="40px" />
+   <a href="https://www.twitter.com/BendikMatej/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px"/>
   </a>
  &nbsp;
  <a href="https://www.linkedin.com/in/matejbendik/" target="_blank" rel="noreferrer">
