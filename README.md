@@ -2,10 +2,9 @@
 
 ## 20 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
-- 💻 Working as a Front-End Web Developer
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates Creator
-- 📚 I'm currently learning NextJS 13
+- 📚 I'm currently learning C, Java, and DSA
 - 🎓 Studying at Technical University of Kosice
 
 ### Projects I've built:
