@@ -4,7 +4,7 @@
  
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates Creator
-- 📚 I'm currently learning C
+- 📚 I'm currently learning Java
 - 🎓 Studying at Technical University of Kosice
 
 ### Projects I've built:
