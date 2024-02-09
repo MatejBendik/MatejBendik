@@ -3,9 +3,9 @@
 ## 20 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
 - ⚡ Average Neovim Enjoyer
-- 💪 Obsessed with lifting weights
 - 📄 Notion Templates Creator
 - 📚 I'm currently learning Java
+- 💪 Addicted to gym and self-improvement
 - 🎓 Studying at Technical University of Košice
 
 ### Projects I've built:
