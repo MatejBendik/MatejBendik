@@ -6,7 +6,6 @@
 - 📄 Notion Templates creator
 - 🧠 Currently learning Java
 - 💪 Obsessed with the gym and self-improvement
-- 📚 Like to read books
 - 🎓 Studying at the Technical University of Košice
 
 ### Projects I've built:
