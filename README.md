@@ -1,6 +1,6 @@
 ## Hey, I'm Matej 👋
 
-## 20 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
+## 21 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates creator
