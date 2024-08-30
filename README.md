@@ -6,7 +6,7 @@
 - 📄 Notion Templates creator
 - 🧠 Currently learning NextJS
 - 💪 Obsessed with the gym and self-improvement
-- 🎓 Studying at the Technical University of Košice
+- 🎓 Studying at the Technical University of Kosice
 
 ### Projects I've built:
 
