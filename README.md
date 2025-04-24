@@ -4,7 +4,6 @@
  
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates creator
-- ❄️ Currently in Winter Arc
 - 💪 Obsessed with the gym and self-improvement
 - 🎓 Studying at the Technical University of Kosice
 
