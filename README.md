@@ -5,7 +5,7 @@
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates creator
 - 💪 Obsessed with the gym and self-improvement
-- 🎓 Studying Bachelors degree at the Technical University of Kosice
+- 🎓 Studying Bachelor's degree at the Technical University of Košice
 
 ### Projects I've built:
 
