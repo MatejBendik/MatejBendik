@@ -4,7 +4,7 @@
  
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates creator
-- 💪 Obsessed with the gym
+- 💪 Obsessed with gym and creating stuff
 - 🎓 Finished Bachelor's Degree at the Technical University of Kosice
 
 ### Projects I've built:
