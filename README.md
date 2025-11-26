@@ -43,7 +43,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,nodejs,express,mongodb,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,nodejs,express,mongodb,supabase,firebase,figma,neovim,notion" />
   </a>
 </p>
 <br/>
