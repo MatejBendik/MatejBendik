@@ -9,6 +9,8 @@
 
 ### Projects I've built:
 
+<a href="https://les-what2eat.vercel.app" target="_blank">What2Eat</a>
+•
 <a href="https://lrnwithai.vercel.app" target="_blank">LrnWithAI</a>
 •
 <a href="https://realtor-clone.matejbendik.com" target="_blank">Realtor clone</a>
