@@ -25,21 +25,9 @@
 
 ### Connect with me:
 
-<p align="left">
-   <a href="https://www.twitter.com/BendikMatej/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40px"/>
-  </a>
- &nbsp;
- <a href="https://www.linkedin.com/in/matejbendik/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
-  </a>
- &nbsp;
- <a href="http://www.instagram.com/matejbendik" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40px"/>
-  </a>
-</p>
-
-
+[![Linkedin](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/matejbendik) &nbsp;
+[![X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/BendikMatej) &nbsp;
+[![Instagram](https://iconkit.ronitghosh.site/icons?i=instagram)](https://www.instagram.com/matejbendik) &nbsp;
 
 ### Languages and Tools:
 
