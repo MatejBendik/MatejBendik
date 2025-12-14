@@ -1,5 +1,8 @@
 ## Hey, I'm Matej 👋
 
+[![wakatime](https://wakatime.com/badge/user/4af64e01-8392-48a9-8d6f-cbb0451b4598.svg)](https://wakatime.com/@4af64e01-8392-48a9-8d6f-cbb0451b4598)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MatejBendik)
+
 ## 22 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
 - ⚡ Average Neovim Enjoyer
