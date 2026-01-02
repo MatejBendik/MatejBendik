@@ -7,7 +7,7 @@
  
 - ⚡ Average Neovim Enjoyer
 - 📄 Notion Templates creator
-- 💪 Gym Rat creating SaaS
+- 💪 Gym Rat creating SaaS with AI
 - 🎓 Finished Bachelor's Degree at the Technical University of Košice
 
 ### Projects I've built:
