@@ -44,11 +44,11 @@
 <br/>
 
 ---
-![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatejBendik&show_icons=true&theme=react&count_private=true&hide_border=true)
+![Matej's GitHub stats](./profile/stats.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatejBendik&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-[![Matej's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matej&langs_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Matej's Wakatime stats](./profile/wakatime.svg)](https://github.com/stats-organization/github-readme-stats-action)
  
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejBendik&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
