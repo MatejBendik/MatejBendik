@@ -30,9 +30,9 @@
 
 ### Connect with me:
 
-[![Linkedin](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/matejbendik) &nbsp;
-[![X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/BendikMatej) &nbsp;
-[![Instagram](https://iconkit.ronitghosh.site/icons?i=instagram)](https://www.instagram.com/matejbendik) &nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matejbendik) &nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/BendikMatej) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/matejbendik) &nbsp;
 
 ### Languages and Tools:
 
