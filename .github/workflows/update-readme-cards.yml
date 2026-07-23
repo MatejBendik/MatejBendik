@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=react&hide_border=true&include_all_commits=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate WakaTime stats card
@@ -29,7 +29,7 @@ jobs:
           card: wakatime
           options: username=Matej&langs_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats
           path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
@@ -38,7 +38,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Commit updated cards
