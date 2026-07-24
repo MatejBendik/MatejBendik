@@ -44,11 +44,9 @@
 <br/>
 
 ---
-![Matej's GitHub stats](./profile/stats.svg)
+[![Matej's GitHub stats](https://readme-stats-github.pages.dev/api?username=MatejBendik&theme=shadow)](https://github.com/MatejBendik)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatejBendik&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-[![Matej's Wakatime stats](./profile/wakatime.svg)](https://github.com/stats-organization/github-readme-stats-action)
- 
 ---
-[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+[![Top Langs](https://readme-stats-github.pages.dev/api/top-langs?username=MatejBendik&theme=shadow)](https://github.com/MatejBendik)
