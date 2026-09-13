@@ -5,7 +5,6 @@
 
 ## 23 • Notion Lover 🤍 • Full-Stack Web Developer 🌐 
  
-- ⚡ Average Neovim Enjoyer
 - 📄 Digital Products Creator
 - 💪 Gym Rat creating SaaS with AI
 - 🎓 Finished Bachelor's Degree at the Technical University of Košice
