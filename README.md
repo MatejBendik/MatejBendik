@@ -13,6 +13,8 @@
 
 <a href="https://makedock.vercel.app" target="_blank">MakeDock</a>
 •
+<a href="https://aktivity.matejbendik.com" target="_blank">Activity Game</a>
+•
 <a href="https://les-what2eat.vercel.app" target="_blank">What2Eat</a>
 •
 <a href="https://lrnwithai.vercel.app" target="_blank">LrnWithAI</a>
