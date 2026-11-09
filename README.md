@@ -11,6 +11,8 @@
 
 ### Projects I've built:
 
+<a href="https://globealbum.vercel.app" target="_blank">GlobeAlbum</a>
+•
 <a href="https://makedock.vercel.app" target="_blank">MakeDock</a>
 •
 <a href="https://aktivity.matejbendik.com" target="_blank">Activity Game</a>
