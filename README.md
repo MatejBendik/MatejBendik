@@ -11,7 +11,7 @@
 
 ### Projects I've built:
 
-<a href="https://globealbum.vercel.app" target="_blank">GlobeAlbum</a>
+<a href="https://globealbum.com" target="_blank">GlobeAlbum</a>
 •
 <a href="https://makedock.vercel.app" target="_blank">MakeDock</a>
 •
