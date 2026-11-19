@@ -7,7 +7,7 @@
  
 - 📄 Digital Products Creator
 - 💪 Gym Rat creating SaaS with AI
-- 🎓 Finished Bachelor's Degree at the Technical University of Košice
+- 🎓 Finished a Bachelor's Degree at the Technical University of Kosice
 
 ### Projects I've built:
 
